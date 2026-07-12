@@ -66,6 +66,10 @@ CMENTE was founded in São Paulo by attorney and entrepreneur Camila Gullo as a 
 
 The institutional website was CMENTE's digital headquarters — the primary point of contact for prospective members, partners, and press. It communicated the startup's four pillars: **Mentorship** (goal-oriented coaching for professional and business growth), **Coworking** (a collaborative workspace fostering community among legal professionals), **Professional Development** (courses, seminars, and meetups), and **Incubation** (end-to-end support — administrative, accounting, financial, and organizational — for solo practitioners and small firms).
 
+<!-- KEY FEATURES -->
+
+### Key Features
+
 - **Custom WordPress implementation for a brand-new startup** — delivered a production-ready institutional site that served as CMENTE's sole digital presence at launch, enabling the founding team to own and update content independently from day one without developer dependency.
 - **Multi-author blog with content migration** — architected a category-taxonomy blog and migrated 14+ original articles from Medium into the CMS, building a searchable content archive that drove organic reach and positioned CMENTE as a thought leader in Brazilian legal entrepreneurship.
 - **Service landing pages driving revenue diversification** — built dedicated pages for the Escritório Virtual and Capacitação Profissional offerings, creating structured conversion paths for each revenue stream and extending CMENTE's addressable market to lawyers across Brazil who needed professional infrastructure without a physical seat.
